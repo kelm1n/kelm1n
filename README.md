@@ -36,17 +36,6 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 📊 GitHub Статистика
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=senyer7&show_icons=true&theme=tokyonight&hide_border=true&locale=ru)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senyer7&layout=compact&theme=tokyonight&hide_border=true&locale=ru)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=senyer7&theme=tokyonight&hide_border=true&locale=ru)
-
-</div>
 
 ## 💼 Проекты
 
