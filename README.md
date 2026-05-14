@@ -4,7 +4,6 @@
 
 ### Junior Frontend Developer | React & TypeScript
 
-[![Website](xz)](url)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kwlnew)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asilkek.12@gmail.com)
 
@@ -64,8 +63,5 @@
 
 - 🌐 **Портфолио:** [senyer7.ru](url)
 - 💬 **Telegram:** [@senyer7](https://t.me/kwlnew)
-- 📧 **Email:** contact@asilkek.12@gmail.com
 
 ---
-
-## 🐍 Змейка ест мои коммиты!
