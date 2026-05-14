@@ -62,6 +62,6 @@
 ## 📫 Связаться со мной
 
 - 🌐 **Портфолио:** [senyer7.ru](url)
-- 💬 **Telegram:** [@senyer7](https://t.me/kwlnew)
+- 💬 **Telegram:** [@kwlnew](https://t.me/kwlnew)
 
 ---
